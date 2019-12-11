@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayStampa", "ArrayStampa.csproj", "{4B6B7694-B5CD-4D72-8D67-0A67C7E720EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B6B7694-B5CD-4D72-8D67-0A67C7E720EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B6B7694-B5CD-4D72-8D67-0A67C7E720EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B6B7694-B5CD-4D72-8D67-0A67C7E720EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B6B7694-B5CD-4D72-8D67-0A67C7E720EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {778F2615-45AE-4832-AC37-3756ACB390E3}
+	EndGlobalSection
+EndGlobal
