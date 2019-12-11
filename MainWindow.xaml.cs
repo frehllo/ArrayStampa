@@ -45,7 +45,7 @@ namespace ArrayStampa
             {
                 if(n < 0)
                 {
-                    lbl_ris.Content = "Il numero deve essere positivo";
+                    lbl_ris.Content = "Il numero deve essere positivo ";
                 }                
                 int[] array = new int[n];
                 for (int i = 0; i < array.Length; i++)
